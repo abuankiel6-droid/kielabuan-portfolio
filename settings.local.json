@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"C:/personal-portfolio/assets/images\" \"C:/personal-portfolio/assets/icons\" \"C:/personal-portfolio/assets/cv\" \"C:/personal-portfolio/css\" \"C:/personal-portfolio/js\")"
+    ],
+    "additionalDirectories": [
+      "C:\\personal-portfolio\\assets"
+    ]
+  }
+}
